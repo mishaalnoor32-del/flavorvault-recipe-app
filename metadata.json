@@ -1,0 +1,8 @@
+{
+  "name": "FlavorVault",
+  "description": "A feature-rich recipe book mobile app featuring Breakfast, Desi, Italian, Global cuisine, Junk Food, Drinks, and Desserts with interactive cooking checklists, step-by-step guides, saved recipes, and personalized favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
